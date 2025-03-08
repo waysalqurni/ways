@@ -1,0 +1,2 @@
+# ways
+mengupulkan soal
